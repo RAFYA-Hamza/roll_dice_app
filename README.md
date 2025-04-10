@@ -1,6 +1,6 @@
 # roll_dice_app
 
-A new Flutter project.
+A new Flutter app.
 
 ## Getting Started
 
